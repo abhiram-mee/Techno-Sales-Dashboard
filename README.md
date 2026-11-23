@@ -62,6 +62,9 @@ Allows users to filter dashboard data by selecting supervisors, with supervisor 
 - Explore supervisor-wise sales performance.
 - Present business insights through interactive visualizations.
 
+## Dashboard Preview
+
+![Techno Sales Dashboard](Dashboard.png)
 
 
 ## Author
